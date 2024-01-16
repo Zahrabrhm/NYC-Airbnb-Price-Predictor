@@ -23,25 +23,25 @@ The project utilizes the [AB_NYC_2019 dataset](./Dataset/), which contains detai
 ## Methods
 The following machine learning methods are implemented in this project:
 
-### Exploratory Data Analysis (EDA)
+### [Exploratory Data Analysis (EDA)](./1.Exploratory_Data_Analysis/)
 - Comprehensive analysis of the dataset to gain insights into the features and their relationships.
 
-### K-Nearest Neighbors (KNN)
+### [K-Nearest Neighbors (KNN)](./2.KNN/)
 - Utilization of the KNN algorithm to make predictions based on the similarity of neighboring data points.
 
-### Decision Tree
+### [Decision Tree](./3.Decision_Tree/)
 - Implementation of a decision tree model to predict Airbnb listing prices based on relevant features.
 
-### Linear Regression
+### [Linear Regression](./4.Regression/)
 - Application of linear regression for modeling the relationship between dependent and independent variables.
 
-### Ridge Regression
+### [Ridge Regression](./4.Regression/)
 - Introduction of Ridge Regression to address multicollinearity and improve the robustness of linear regression.
 
-### Lasso Regression
+### [Lasso Regression](./4.Regression/)
 - Implementation of Lasso Regression to encourage sparsity and feature selection.
 
-### Ensemble Learning
+### [Ensemble Learning](./5.Capstone_Project/)
 - Using ensemble learning techniques for improved predictive performance.
 
 
